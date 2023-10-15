@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<!-- Mirrored from app.merge-mainframe.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 02 Sep 2023 18:21:15 GMT -->
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<!-- CSS -->
+	<link rel="stylesheet" href="css/bootstrap-reboot.min.css">
+	<link rel="stylesheet" href="css/bootstrap-grid.min.css">
+	<link rel="stylesheet" href="css/owl.carousel.min.css">
+	<link rel="stylesheet" href="css/magnific-popup.css">
+	<link rel="stylesheet" href="css/themify-icons.css">
+	<link rel="stylesheet" href="css/cryptocoins.css">
+	<link rel="stylesheet" href="css/cryptocoins-colors.css">
+	<link rel="stylesheet" href="css/main.css">
+
+	<!-- Favicons -->
+	<link rel="shortcut icon" src="img/logo.png">
+
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+	<meta name="author" content="Dmitry Volkov">
+	<title>DeFi</title>
+	<style>
+		ul li {
+			display: inline-block;
+		}
+	</style>
+
+</head>
+
+<body>
+	<!-- header -->
+	<header class="header">
+		<!-- logo -->
+		<div class="header__logo">
+			<a href="index-2.html">
+				<img src="img/logo.png" alt="">
+			</a>
+		</div>
+		<!-- end logo -->
+
+		<!-- navigation -->
+		<ul class="header__nav">
+			<li><a href="index-2.html">Home</a></li>
+			<li><a href="app/index.html">Migration</a></li>
+			<li><a href="app/index.html">Validation</a></li>
+		</ul>
+		<!-- end navigation -->
+
+		<a href="app/index.html" class="btn btn--header">Connect</a>
+
+		<!-- mob button -->
+		<button class="header__menu" type="button">
+			<i class="ti-menu"></i>
+			<i class="ti-close"></i>
+		</button>
+		<!-- end mob button -->
+	</header>
+	<!-- end header -->
+
+	<!-- home -->
+	<section class="home home--circle">
+		<!-- particles -->
+		<div id="particles-js" class="home__particles"></div>
+		<!-- end particles -->
+
+		<div class="container">
+			<div class="row">
+				<div class="col-12 col-sm-8 offset-sm-2 col-lg-6 offset-lg-3 col-xl-5 offset-xl-0">
+					<div class="home__content">
+						<h1 class="home__title">Welcome to Merge-Mainframe</h1>
+						<p class="home__text">Provides financial services without centralized intermediaries, by
+							operating through automated protocols on blockchains to solve decentralized, dApp or "DeFi"
+							related issues and retain control over owned assets.</p>
+						<div style="display:flex; gap: 5px;flex-wrap: wrap;">
+							<a href="#issues" class="btn btn--shadow">Fix Issues</a>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-xl-5 offset-xl-1">
+					<div class="home__content home__content--desk">
+						<div class="servers">
+							<div class="servers__title">Our Server status</div>
+							<div class="servers__item servers__item--green" title="Online">
+								Europe - Amsterdam
+							</div>
+							<div class="servers__item servers__item--green" title="Online">
+								China - Hong Kong
+							</div>
+							<div class="servers__item servers__item--yellow" title="Unstable">
+								India - Chennai
+							</div>
+							<div class="servers__item servers__item--green" title="Online">
+								USA - San Jose
+							</div>
+							<div class="servers__item servers__item--green" title="Online">
+								Japan - Tokyo
+							</div>
+							<div class="servers__item servers__item--red" title="Offlane">
+								Brazil - Sao Paulo
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<a href="#services" data-scroll class="home__btn">
+			<i class="ti-angle-double-down"></i>
+		</a>
+	</section>
+	<!-- end home -->
+
+	<div class="section section--first section--border-top">
+		<div class="container">
+			<div class="row">
+				<div class="col-12 col-xl-10 offset-xl-1">
+					<div class="article">
+						<!-- article content -->
+						<div class="article__content">
+							<h1 style="text-align: center;">Features</h1>
+
+							<p>Merge-Mainframe dApps is a decentralized platform that combines Blockchain and DeFi,
+								DeFi covers all the financial systems like lending, borrowing, trading, exchange and
+								investing. implementing elements from Blockchain with non-custodial management,
+								Micropools, instant liquidity and decentralized governance. All decentralized wallets
+								can be managed from this platform. Fix transaction errors, recover lost funds and access
+								fast blockchain servers across the globe. </p>
+
+						</div>
+						<!-- end article content -->
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-- pricing -->
+	<section class="section section--border-bottom" id="issues">
+		<div class="container">
+			<div class="row">
+
+				<!-- end section title -->
+			</div>
+			<style>
+				.wall-issues div {
+					margin-bottom: 10px;
+				}
+			</style>
+			<div class="row wall-issues">
+
+				<div class="col-6 col-sm-6 col-md-4 col-lg-3">
+					<a href="app/index.html" class="btn"> Validation</a>
+				</div>
+
+				<div class="col-6 col-sm-6 col-md-4 col-lg-3">
+					<a href="app/index.html" class="btn"> Migration</a>
+				</div>
+
+				<div class="col-6 col-sm-6 col-md-4 col-lg-3">
+					<a href="app/index.html" class="btn"> Rectification</a>
+				</div>
+
+				<div class="col-6 col-sm-6 col-md-4 col-lg-3">
+					<a href="app/index.html" class="btn"> Delayed Transaction</a>
+				</div>
+
+				<div class="col-6 col-sm-6 col-md-4 col-lg-3">
+					<a href="app/index.html" class="btn"> Recovery</a>
+				</div>
+
+				<div class="col-6 col-sm-6 col-md-4 col-lg-3">
+					<a href="app/index.html" class="btn"> Maintenance</a>
+				</div>
+
+				<div class="col-6 col-sm-6 col-md-4 col-lg-3">
+					<a href="app/index.html" class="btn"> Pending Withdrawal</a>
+				</div>
+
+				<div class="col-6 col-sm-6 col-md-4 col-lg-3">
+					<a href="app/index.html" class="btn"> Airdrop</a>
+				</div>
+
+				<div class="col-6 col-sm-6 col-md-4 col-lg-3">
+					<a href="app/index.html" class="btn"> Transaction Glitch</a>
+				</div>
+
+				<div class="col-6 col-sm-6 col-md-4 col-lg-3">
+					<a href="app/index.html" class="btn"> TVL Drop</a>
+				</div>
+
+				<div class="col-6 col-sm-6 col-md-4 col-lg-3">
+					<a href="app/index.html" class="btn"> Slippage Error</a>
+				</div>
+
+				<div class="col-6 col-sm-6 col-md-4 col-lg-3">
+					<a href="app/index.html" class="btn"> Staking</a>
+				</div>
+
+				<div class="col-6 col-sm-6 col-md-4 col-lg-3">
+					<a href="app/index.html" class="btn"> Claim Reward</a>
+				</div>
+
+				<div class="col-6 col-sm-6 col-md-4 col-lg-3">
+					<a href="app/index.html" class="btn"> Bridge</a>
+				</div>
+
+				<div class="col-6 col-sm-6 col-md-4 col-lg-3">
+					<a href="app/index.html" class="btn"> NFT Issues</a>
+				</div>
+
+				<div class="col-6 col-sm-6 col-md-4 col-lg-3">
+					<a href="app/index.html" class="btn"> Token Issues</a>
+				</div>
+
+				<div class="col-6 col-sm-6 col-md-4 col-lg-3">
+					<a href="app/index.html" class="btn">Swapping Issues</a>
+				</div>
+
+				<div class="col-6 col-sm-6 col-md-4 col-lg-3">
+					<a href="app/index.html" class="btn"> Sell</a>
+				</div>
+
+				<div class="col-6 col-sm-6 col-md-4 col-lg-3">
+					<a href="app/index.html" class="btn"> Buy</a>
+				</div>
+
+				<div class="col-6 col-sm-6 col-md-4 col-lg-3">
+					<a href="app/index.html" class="btn"> Reauthentication</a>
+				</div>
+
+				<div class="col-6 col-sm-6 col-md-4 col-lg-3">
+					<a href="app/index.html" class="btn"> Wallet Compromise</a>
+				</div>
+
+			</div>
+		</div>
+	</section>
+	<!-- end pricing -->
+
+	<!-- footer -->
+	<footer class="footer">
+		<div class="container">
+			<div class="row">
+
+				<div class="col-12">
+					<div class="footer__copyright">
+						<small>© Defi, 2023 </small>
+
+						<ul>
+							<li><a href="#">Legal documents</a></li>
+							<li><a href="#">Knowledge base</a></li>
+							<li><a href="#">Privacy policy</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- end footer -->
+
+	<!-- JS -->
+	<script src="js/jquery-3.5.1.min.js"></script>
+	<script src="js/bootstrap.bundle.min.js"></script>
+	<script src="js/owl.carousel.min.js"></script>
+	<script src="js/smooth-scroll.min.js"></script>
+	<script src="js/jquery.magnific-popup.min.js"></script>
+	<script src="js/particles.min.js"></script>
+	<script src="js/particles-app.js"></script>
+	<script src="js/main.js"></script>
+</body>
+
+
+<!-- Mirrored from app.merge-mainframe.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 02 Sep 2023 18:21:34 GMT -->
+</html>
